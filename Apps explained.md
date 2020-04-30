@@ -1,4 +1,7 @@
 # Android-Apps
+GroceryList-
+The app will use a database to store information. You can delete, edit, add, and view all your grocery items. All stored into a db.
+
 CandyDatabase- 
 The app will have the ability to add, delete, and update products in real time and save them into a database. 
 
